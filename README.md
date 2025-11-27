@@ -6,8 +6,13 @@ Proyek ini bertujuan untuk mengevaluasi tingkat keamanan dan risiko privasi pada
 
 #### 2. Dataset
 Sumber: UCI Machine Learning Repository / Kaggle
+
+Tautan Dataset: https://www.kaggle.com/datasets/adityamhaske/bank-marketing-dataset/code 
+
 Jumlah sampel: ±45.000 baris
+
 Jumlah atribut: 17 kolom
+
 Jenis atribut:
 - Demografis (usia, pekerjaan, pendidikan, status pernikahan)
 - Finansial (pinjaman, kredit, saldo bank)
